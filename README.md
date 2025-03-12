@@ -1,6 +1,6 @@
 # Consumer-Shopping-Analysis
 Introduction:
-Through the use of the project, the main goal was to see if I can contribute and help small clothing businesses in local communities. Through the use of statistical analysis I was able to achieve this goal, by showing I have the ability to share educated and informed knowledge about purchasing trends within clothing. 
+The main goal of this project was to see if I have the ability to contribute and help small clothing businesses in local communities with the use of statistical analysis. I was able to achieve this goal, by showcasing my ability to share educated and informed knowledge about purchasing trends within clothing. Of course, this specific project is not intended to help any ongoing business, as the data set is anonymous. However, this project showcases my ability to help businesses make educated decisions through data analyzation.  
 
 Dataset Source: 
 https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset?resource=download
